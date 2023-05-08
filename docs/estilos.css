@@ -13,6 +13,8 @@ header{
 nav{
     border: 1px solid blue;
     height: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 section{
@@ -36,4 +38,11 @@ article{
     height: 130px;
     width: 670px;
     float: right;
+}
+
+ul li{
+    border: 1px solid black;
+    width: 100px;
+    display: inline-block;
+    margin-right: 10px;
 }
