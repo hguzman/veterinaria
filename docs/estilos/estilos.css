@@ -8,6 +8,7 @@ main {
 header{
     border: 1px solid blue;
     height: 100px;
+    text-align: center;
 }
 
 nav{
@@ -45,4 +46,9 @@ ul li{
     width: 100px;
     display: inline-block;
     margin-right: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+header img{
+    height: 95px;
 }
