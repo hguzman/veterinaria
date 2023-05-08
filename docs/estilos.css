@@ -24,3 +24,16 @@ footer{
     border: 1px solid red;
     height: 50px;
 }
+
+aside{
+    border: 1px solid red;
+    height: 400px;
+    width: 400px;
+    float: left;
+}
+article{
+    border: 1px solid black;
+    height: 130px;
+    width: 670px;
+    float: right;
+}
